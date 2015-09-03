@@ -29,7 +29,7 @@ Trên máy chủ em đã add thêm 1 card mạng và sử dụng card mạng đ�
 
 Và dải địa chỉ cấp: 172.16.0.3 - 172.16.0.20
 
-Trên máy trạm: để cấu hình ip động. Sau khi xin địa chỉ thì xp client sẽ được cấp địa chỉ là 172.16.0.3.
+Trên máy trạm: để cấu hình ip động.
 
 Sử dụng gói tcpdump trên ubuntu server để bắt và phân tích gói tin DHCP
 
