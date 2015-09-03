@@ -21,7 +21,7 @@ Nó hoạt động ở tầng 7 của mô hình OSI và tương ứng tại tầ
 
 *Để làm rõ các thông điệp DHCP em xin sử dụng DEMO của mình về DHCP để thể hiện rõ ràng hơn.*
 
-Mô hình DEMO gồm có: 1 máy chủ (Ubuntu server 14.02), 1 máy trạm (winxp)
+Mô hình DEMO gồm có: 1 máy chủ (Ubuntu server 14.04.3), 1 máy trạm (winxp)
 
 Trên máy chủ Ubuntu server cài đặt và chạy dịch vụ DHCP-server.
 
