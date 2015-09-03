@@ -25,7 +25,7 @@ Mô hình DEMO gồm có: 1 máy chủ (Ubuntu server 14.04.3), 1 máy trạm (w
 
 Trên máy chủ Ubuntu server cài đặt và chạy dịch vụ DHCP-server.
 
-Trên máy chủ em đã add thêm 1 card mạng và sử dụng card mạng đó để demo với địa chỉ ip: 172.16.0.1
+Trên máy chủ em đã add thêm 1 card mạng và sử dụng card mạng đó để demo với địa chỉ ip: 172.16.0.2
 
 Và dải địa chỉ cấp: 172.16.0.3 - 172.16.0.20
 
