@@ -62,10 +62,9 @@ DHCP client đã nhận được gói tin DHCPOFFER thì nó sẽ phản hồi b
 
 DHCP server nhận được DHCPREQUEST sẽ gởi trả lại DHCP client một DHCPACK để cho biết là đã chấp nhận cho DHCP client đó thuê IP address đó. Gói tin này bao gồm địa chỉ IP và các thông tin cấu hình khác (DNS server, WINS server... ). Khi DHCP client nhận được DHCPACK thì cũng có nghĩa là kết thúc quá trình "tìm kiếm và xin địa chỉ" của mình.
 
-
-
-### 4. Kết Luận
 **Tài liệu tham khảo**
 - http://vdo.vn/gioi-thieu-may-chu-dhcp-dhcp-server
 - http://vdo.vn/cong-nghe-thong-tin/cac-khai-niem-co-ban-ve-dhcp.html
 - http://www.vnpro.vn/
+- http://www.tecmint.com/12-tcpdump-commands-a-network-sniffer-tool/
+- https://github.com/soncaca/command-tcpdump
